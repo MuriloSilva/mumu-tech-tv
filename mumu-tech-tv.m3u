@@ -1,4 +1,7 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="globo.sp.br" tvg-name="Globo SP FHD" tvg-logo="http://prinplay.com.br/server/Globo%20S%C3%A3o%20Paulo.png" group-title="Globo ",Globo SP FHD
+http://dns.clientetv.tech:8080/5DVn8q5YXj/NB4SfauD4Y/62169
 #EXTINF:-1 tvg-id="" tvg-name="O Último Americano Virgem (1982)" tvg-logo="http://dns.acaidopara.net:8080/images/4NRkTOvQrD8xMD1GCeJUybXzVeD_big.jpg" group-title="Recém Adicionado",O Último Americano Virgem (1982)
+http://dns.clientetv.tech:8080/movie/5DVn8q5YXj/NB4SfauD4Y/952007.mp4
 #EXTINF:-1 tvg-id="" tvg-name="Lúcifer S01 Lúcifer - S01E01 - Piloto" tvg-logo="https://image.tmdb.org/t/p/w600_and_h900_bestv2/aSl1ASgOlNkukh0kalKCvGKZeb4.jpg" group-title="[Netflix Séries]",Lúcifer S01 Lúcifer - S01E01 - Piloto
+http://dns.clientetv.tech:8080/series/5DVn8q5YXj/NB4SfauD4Y/48685.mp4
